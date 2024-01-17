@@ -5,7 +5,7 @@
 
 ---
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=LivioSmd&theme=blue-green) <br/>
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=LivioSmd&theme=blue-green) <space/>
 ![image](https://github-readme-stats.vercel.app/api?username=LivioSmd&theme=blue-green)
 
 ---
