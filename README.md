@@ -6,6 +6,8 @@
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=LivioSmd&theme=blue-green)
 ![image](https://github-readme-stats.vercel.app/api?username=LivioSmd&theme=blue-green)
 
+---
+
 
 
 ## E-mail : smd.livio@gmail.com
